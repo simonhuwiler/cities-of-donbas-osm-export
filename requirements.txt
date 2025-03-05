@@ -1,3 +1,4 @@
 osm2geojson==0.2.5
 geopandas==1.0.1
 ipykernel==6.29.5
+matplotlib==3.10.1
