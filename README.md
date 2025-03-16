@@ -31,7 +31,7 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
-## Usage
+## How to use this
 ### [10-cities-export-geodata.ipynb](src/10-cities-export-geodata.ipynb)
 This script does:
 * Export all settlement areas from OSM and save them in [export/settlements.gpkg](export/settlements.gpkg)
@@ -41,8 +41,8 @@ This script does:
 This script
 Generates an SVG graphic for each settlement, which is stored in the [export/svg/](export/svg/) folder.
 
-### License
+## License
 These scripts may be used and edited freely. The original data belongs to OpenStreetMap and may be used in accordance with OpenStreetMap's license terms.
 
-### Contact
+## Contact
 [See here](https://www.nzz.ch/impressum/simon-huwiler-shu-ld.1650592)
