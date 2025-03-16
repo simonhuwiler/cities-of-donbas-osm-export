@@ -8,25 +8,6 @@ For the NZZ article [The last bastions in the Donbas: Putin wants to conquer the
 
 
 ## Installation
-**Create VirtuelEnv**
-```
-# Mac
-python3 -m venv env
-
-# Windows
-python -m venv env
-```
-
-**Start env**
-```
-# Mac
-source env/bin/activate
-
-# Windows
-.\env\Script\activate
-```
-
-**Install Requirements**
 ```
 pip install -r requirements.txt
 ```
